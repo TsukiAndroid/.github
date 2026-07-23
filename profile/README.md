@@ -10,9 +10,9 @@
 
 | Channel | Description | Link |
 |---------|-------------|------|
-| ✅ Stable | Recommended for most users | [Download](https://github.com/Space4414/Tsuki/releases/latest) |
-| 🧪 Beta | Early access to new features | [Download](https://github.com/Space4414/Tsuki/releases) |
-| ⚡ Alpha | Bleeding edge builds | [Download](https://github.com/Space4414/Tsuki/releases) |
+| ✅ Stable | Recommended for most users | [Download](https://github.com/TsukiAndroid/Tsuki/releases/latest) |
+| 🧪 Beta | Early access to new features | [Download](https://github.com/TsukiAndroid/Tsuki/releases) |
+| ⚡ Alpha | Bleeding edge builds | [Download](https://github.com/TsukiAndroid/Tsuki/releases) |
 
 **Minimum requirement:** Android 6.0 (Marshmallow) and above
 
@@ -63,9 +63,9 @@ Multiple layers of immortality — built-in sources, AI parser learning, browser
 
 | Repository | Description |
 |------------|-------------|
-| [Tsuki](https://github.com/Space4414/Tsuki) | Main Android app |
+| [Tsuki](https://github.com/TsukiAndroid/Tsuki) | Main Android app |
 | [Tsuki-Website](https://tsukiapp.vercel.app) | Official website |
-| [Tsuki-Parsers](https://github.com/Space4414/Tsuki-Parsers) | Community parser templates |
+| [Tsuki-Parsers](https://github.com/TsukiAndroid/Tsuki-Parsers) | Community parser templates |
 
 ---
 
@@ -94,9 +94,9 @@ Multiple layers of immortality — built-in sources, AI parser learning, browser
 
 - 🌙 **Website:** [tsukiapp.vercel.app](https://tsukiapp.vercel.app)
 - 🔧 **Parser Generator (Still in Testing Phase):** [tsukiapp.vercel.app/parser-gen.html](https://tsukiapp.vercel.app/parser-gen.html)
-- 🐛 **Report a Bug:** [GitHub Issues](https://github.com/Space4414/Tsuki/issues)
+- 🐛 **Report a Bug:** [GitHub Issues](https://github.com/TsukiAndroid/Tsuki/issues)
 - 💬 **Discussions:** [Discuss on Discord](https://discord.gg/gXsesG8G7H)
-- ⭐ **Star on GitHub:** [Space4414/Tsuki](https://github.com/Space4414/Tsuki)
+- ⭐ **Star on GitHub:** [TsukiAndroid/Tsuki](https://github.com/TsukiAndroid/Tsuki)
 
 ---
 
@@ -122,7 +122,7 @@ Tsuki is community driven. You can help by:
 - 📝 Improving the wiki documentation
 - 💻 Contributing code via pull requests
 
-See [CONTRIBUTING.md](https://github.com/Space4414/Tsuki/blob/main/CONTRIBUTING.md) for details.
+See [CONTRIBUTING.md](https://github.com/TsukiAndroid/Tsuki/blob/main/CONTRIBUTING.md) for details.
 
 ---
 
@@ -132,6 +132,6 @@ See [CONTRIBUTING.md](https://github.com/Space4414/Tsuki/blob/main/CONTRIBUTING.
 
 Free and open source forever.
 
-[Website](https://tsukiapp.vercel.app) · [Download](https://github.com/Space4414/Tsuki/releases) · [GitHub](https://github.com/Space4414/Tsuki)
+[Website](https://tsukiapp.vercel.app) · [Download](https://github.com/TsukiAndroid/Tsuki/releases) · [GitHub](https://github.com/TsukiAndroid/Tsuki)
 
 </div>
